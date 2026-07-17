@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-- **Backend API:** https://chayachando-backend.vercel.app/
+- **Backend API:** https://bd-news-backend.vercel.app/
 - **Admin Panel:** https://chayachando-admin.netlify.app/
 - **Website:** https://chayachando.netlify.app/
 
