@@ -15,7 +15,7 @@ Live Deployment Link [chayachando-backend](https://bd-news-backend.vercel.app/).
 
 ## Overview
 
-he goal of this project is to build the backend for ChayaChando, a storytelling and blogging platform that enables users to publish, edit, and manage their stories with ease. The platform features secure authentication, role-based authorization, and dedicated Admin and User roles. Users can create and manage their own content, while Admins oversee user management and content moderation. Additionally, the backend exposes public APIs for discovering published stories through search, category filtering, sorting, and pagination, providing a fast and scalable reading experience.
+The goal of this project is to build the backend for ChayaChando, a storytelling and blogging platform that enables users to publish, edit, and manage their stories with ease. The platform features secure authentication, role-based authorization, and dedicated Admin and User roles. Users can create and manage their own content, while Admins oversee user management and content moderation. Additionally, the backend exposes public APIs for discovering published stories through search, category filtering, sorting, and pagination, providing a fast and scalable reading experience.
 
 ---
 
