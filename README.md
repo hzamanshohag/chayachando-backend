@@ -1,6 +1,10 @@
 # chayachando-backend
 
-Live Deployment Link [chayachando-backend](https://bd-news-backend.vercel.app/).
+## Live Demo
+
+- **Backend API:** https://chayachando-backend.vercel.app/
+- **Admin Panel:** https://chayachando-admin.netlify.app/
+- **Website:** https://chayachando.netlify.app/
 
 ## Package Management
 
